@@ -21,10 +21,10 @@ redirect_from:
     
     In particular, I am interested in embodied intelligence with focus on representation learning for multi-modal perception and long-horizon planning.
   </p>
-  + Representation learning for multi-modal perception: When robots interact with real-world environments, they will receive multi-modal perception inputs, including images, audio, texts, tactile sensing, etc. How to learn object-generic and task-driven representations is critical for efficient skill learning. Specifically, can we represent objects of different materials (rigid, fluidic, deformable, particulate) in a generic form? How to use a target task as a prompt to learn task-efficient representations?
-  + Hierarchical embodied planning: To solve long-horizon planning tasks, decoupling tasks to sequential atomic skills is demonstrated as a promising solution. Currently, many researchers leverage large language models (LLMs) to provide skill sequences, and then execute rule-based or learning-based skills. Based on these approaches, there are plenty of problems I’m interested in. For example, how to define and decide the granularity of skills? How to close the loop between high-level skill sequences and low-level control signals for learning-based skills? And how can we solve the “Hand over” problem of skill sequence?
+  + Representation learning for multi-modal perception: When robots interact with real-world environments, they will receive multi-modal perception inputs, including images, audio, etc. How to learn object-generic and task-driven representations is critical for efficient skill learning. Specifically, can we represent objects of different materials (rigid, fluidic, deformable, particulate) in a generic form? How to use a target task as a prompt to learn task-efficient representations?
+  + Hierarchical embodied planning: Decoupling tasks to sequential atomic skills is demonstrated as a promising solution to tackle long-horizon planning tasks. Currently, many researchers leverage large language models (LLMs) to provide skill sequences, and then execute rule-based or learning-based skills. Based on these approaches, there are plenty of problems I’m interested in. For example, how to define and decide the granularity of skills? How to close the loop between high-level skill sequences and low-level control signals for learning-based skills? And how can we solve the “Hand over” problem of skill sequence?
 
 
 For more info
 ------
-More info can be found in [the guide](https://Zixin-Tang.github.io/assets/Zixin Tang Curriculum Vitae.pdf).
+More info can be found in [my Curriculum Vitae](https://Zixin-Tang.github.io/assets/Zixin Tang Curriculum Vitae.pdf).
