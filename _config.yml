@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zixin Tang / Personal Homepage"
+title                    : "Zixin Tang's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zixin Tang"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zixin Tang"
   avatar           : "profile.png"
-  bio              : # "Your biography for the left-hand sidebar"
+  bio              : "                            "
   location         : "Shanghai AI Lab"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
