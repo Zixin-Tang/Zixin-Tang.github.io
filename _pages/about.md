@@ -18,6 +18,7 @@ redirect_from:
   <p>
     <strong>Research Areas & Interests:</strong>
     My research areas lie in robotics, computer vision, and deep reinforcement learning. 
+    
     In particular, I am interested in embodied intelligence with focus on representation learning for multi-modal perception and long-horizon planning.
   </p>
   + Representation learning for multi-modal perception: When robots interact with real-world environments, they will receive multi-modal perception inputs, including images, audio, texts, tactile sensing, etc. How to learn object-generic and task-driven representations is critical for efficient skill learning. Specifically, can we represent objects of different materials (rigid, fluidic, deformable, particulate) in a generic form? How to use a target task as a prompt to learn task-efficient representations?
@@ -26,4 +27,4 @@ redirect_from:
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info can be found in [the guide](https://Zixin-Tang.github.io/assets/Zixin Tang Curriculum Vitae.pdf).
