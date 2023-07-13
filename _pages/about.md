@@ -9,10 +9,9 @@ redirect_from:
 
   <p>
     I am a research assistant at [Shanghai AI Lab](https://www.shlab.org.cn), working with
-    <a style="color:#081b86; font-weight:bold" href="https://www.hrl.uni-bonn.de/Members/maren">Dr. Dong Wang</a> and 
-    <a style="color:#081b86; font-weight:bold" href="https://baichenjia.github.io">Dr. Chenjia Bai</a>.
+    Dr. [Dong Wang]() and Dr. [Chenjia Bai](https://baichenjia.github.io).
     Prior to this, I obtained my M.S. degree in Control Science and Engineering from
-    <a style="color:#081b86; font-weight:bold" href="">National University of Defense Technology</a>, advised by Prof. Dr. <a style="color:#081b86; font-weight:bold" href="/">Xin Xu</a>, and my bachelor's degree in Computer Science and Technology from <a style="color:#081b86; font-weight:bold" href="/">Sichuan University</a>.
+    [ational University of Defense Technology](N), advised by Prof. Dr. [Xin Xu](), and my bachelor's degree in Computer Science and Technology from [Sichuan University]().
   </p>
 
   <p>
