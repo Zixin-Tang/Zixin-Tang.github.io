@@ -11,12 +11,11 @@ I am a research assistant at [Shanghai AI Lab](https://www.shlab.org.cn), workin
     
 
 <p>
-<strong>Research Areas & Interests:</strong>
-My research areas lie in robotics, computer vision, and deep reinforcement learning. 
+<strong>Research Areas & Interests:</strong> robotics, computer vision, and deep reinforcement learning. 
 </p>   
 In particular, I am interested in embodied intelligence with focus on representation learning for multi-modal perception and long-horizon planning.
-+ <font color='green'>Representation learning for multi-modal perception</font>: How to learn object-generic and task-driven representations is critical for efficient skill learning?
-+ <font color='green'>Hierarchical embodied planning</font>: How to define and decide the granularity of skills? How to close the loop between high-level skill sequences and low-level control signals for learning-based skills? And how can we solve the “Hand over” problem of skill sequence?
++ <font color='green'>Representation learning for multi-modal perception: </font>How to learn object-generic and task-driven representations is critical for efficient skill learning?
++ <font color='green'>Hierarchical embodied planning: </font>How to define and decide the granularity of skills? How to close the loop between high-level skill sequences and low-level control signals for learning-based skills? And how can we solve the “Hand over” problem of skill sequence?
 
 
 Publications
