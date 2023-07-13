@@ -8,7 +8,7 @@ redirect_from:
 ---
 
   <p>
-    I am a research assistant at <a style="color:#081b86; font-weight:bold" href="https://www.shlab.org.cn">Shanghai AI Lab</a>, working with
+    I am a research assistant at [Shanghai AI Lab](https://www.shlab.org.cn), working with
     <a style="color:#081b86; font-weight:bold" href="https://www.hrl.uni-bonn.de/Members/maren">Dr. Dong Wang</a> and 
     <a style="color:#081b86; font-weight:bold" href="https://baichenjia.github.io">Dr. Chenjia Bai</a>.
     Prior to this, I obtained my M.S. degree in Control Science and Engineering from
