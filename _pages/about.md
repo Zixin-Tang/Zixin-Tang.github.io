@@ -27,7 +27,7 @@ Publications
 RGB-D Images](https://Zixin-Tang.github.io/assets/pub/SymmetryGrasp_Symmetry-Aware_Antipodal_Grasp_Detection_From_Single-View_RGB-D_Images.pdf)[J]. IEEE Robotics and Automation Letters (**RA-L**), 2022, 7(4):12235-12242.
 
 [3] Xiao Y, **Tang Z**, Xu X, Zhang X, Shi Y. [A deep Koopman operator-based modelling approach for long-term prediction of 
-dynamics with pixel-level measurements](https://Zixin-Tang.github.io/assets/pub/)[J]. **CAAI** Transactions on Intelligence Technology, 2023.
+dynamics with pixel-level measurements](https://Zixin-Tang.github.io/assets/pub/CAAI_Trans_on_Intel_Tech-2023-A_deep_Koopman_operator_based_modelling_approach.pdf)[J]. **CAAI** Transactions on Intelligence Technology, 2023.
 
 [4] Lan Y, Ren J, Tang T, Xu X, Shi Y, **Tang Z**. [Efficient reinforcement learning with least-squares soft Bellman residual for robotic grasping](https://Zixin-Tang.github.io/assets/pub/CAAI_Trans_on_Intel_Tech-2023-A_deep_Koopman_operator_based_modelling_approach.pdf)[J]. Robotics and Autonomous Systems (**RAS**), 2023, 164: 104385.
 
