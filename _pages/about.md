@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant at [Shanghai AI Lab](https://www.shlab.org.cn), working with Dr. [Dong Wang]() and Dr. [Chenjia Bai](https://baichenjia.github.io). Prior to this, I obtained my M.S. degree in Control Science and Engineering from [National University of Defense Technology](), advised by Prof. Dr. [Xin Xu](), and my bachelor's degree in Computer Science and Technology from [Sichuan University]().
+I am a research assistant at [Shanghai AI Lab](https://www.shlab.org.cn), working with Dong Wang and [Chenjia Bai](https://baichenjia.github.io). Prior to this, I obtained my **M.S. degree** in Control Science and Engineering from [National University of Defense Technology](https://www.nudt.edu.cn), advised by Prof. Dr. [Xin Xu](https://xueshu.baidu.com/scholarID/CN-B7736SUJ), and my bachelor's degree in Computer Science and Technology from [Sichuan University](https://www.scu.edu.cn).
     
 
   <p>
