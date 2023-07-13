@@ -22,6 +22,23 @@ I am a research assistant at [Shanghai AI Lab](https://www.shlab.org.cn), workin
   Decoupling tasks to sequential atomic skills is demonstrated as a promising solution to tackle long-horizon planning tasks. Currently, many researchers leverage large language models (LLMs) to provide skill sequences, and then execute rule-based or learning-based skills. Based on these approaches, there are plenty of problems I’m interested in. For example, how to define and decide the granularity of skills? How to close the loop between high-level skill sequences and low-level control signals for learning-based skills? And how can we solve the “Hand over” problem of skill sequence?
 
 
+
+---
+title: "Paper Title Number 1"
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+This paper is about the number 1. The number 2 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
 For more info
 ------
 More info can be found in [my Curriculum Vitae](https://Zixin-Tang.github.io/assets/Zixin Tang Curriculum Vitae.pdf).
