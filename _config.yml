@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zixin Tang's Personal Homepage"
+title                    : "Zixin Tang’s Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zixin Tang"
 description              : &description "personal description"
-url                      : https://Zixin-Tang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aZixin-Tang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Zixin-Tang/Zixin-Tang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,14 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Zixin Tang"
-  avatar           : "profile.jpg"
-  bio              : "                            "
-  location         : "Shanghai, China"
+  avatar           : "profile.png"
+  bio              : # "Your biography for the left-hand sidebar"
+  location         : "Shanghai AI Lab"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "tangzixin6135@outlook.com"
-  CV               : "Zixin Tang Curriculum Vitae.pdf"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -176,18 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  # teaching:
-  #   output: true
-  #   permalink: /:collection/:path/
+  teaching:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  # portfolio:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # talks:
-  #   output: true
-  #   permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -203,14 +202,14 @@ defaults:
       comments: true
       share: true
       related: true
-  _pages
+  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  _teaching
+  # _teaching
   - scope:
       path: ""
       type: teaching
@@ -229,22 +228,22 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
