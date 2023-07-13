@@ -21,17 +21,17 @@ In particular, I am interested in embodied intelligence with focus on representa
 
 Publications
 ------
-[1] **Tang Z**, Shi Y, Xu X. [CSGP: Closed-loop Safe Grasp Planning via Attention-based Deep Reinforcement Learning from Demonstrations](asserts/pub/CSGP_Closed-Loop_Safe_Grasp_Planning_via_Attention-Based_Deep_Reinforcement_Learning_From_Demonstrations.pdf)[J]. IEEE Robotics and Automation Letters (**RA-L**), 2023, 8(6): 3158-3165.
+[1] **Tang Z**, Shi Y, Xu X. [CSGP: Closed-loop Safe Grasp Planning via Attention-based Deep Reinforcement Learning from Demonstrations](https://Zixin-Tang.github.io/assets/pub/CSGP_Closed-Loop_Safe_Grasp_Planning_via_Attention-Based_Deep_Reinforcement_Learning_From_Demonstrations.pdf)[J]. IEEE Robotics and Automation Letters (**RA-L**), 2023, 8(6): 3158-3165.
 
 [2] Shi Y, **Tang Z**, Cai X, Zhang H, Hu D, Xu X. [SymmetryGrasp: Symmetry-Aware Antipodal Grasp Detection From Single-View 
-RGB-D Images](asserts/pub/SymmetryGrasp_Symmetry-Aware_Antipodal_Grasp_Detection_From_Single-View_RGB-D_Images.pdf)[J]. IEEE Robotics and Automation Letters (**RA-L**), 2022, 7(4):12235-12242.
+RGB-D Images](https://Zixin-Tang.github.io/assets/pub/SymmetryGrasp_Symmetry-Aware_Antipodal_Grasp_Detection_From_Single-View_RGB-D_Images.pdf)[J]. IEEE Robotics and Automation Letters (**RA-L**), 2022, 7(4):12235-12242.
 
 [3] Xiao Y, **Tang Z**, Xu X, Zhang X, Shi Y. [A deep Koopman operator-based modelling approach for long-term prediction of 
-dynamics with pixel-level measurements]()[J]. **CAAI** Transactions on Intelligence Technology, 2023.
+dynamics with pixel-level measurements](https://Zixin-Tang.github.io/assets/pub/)[J]. **CAAI** Transactions on Intelligence Technology, 2023.
 
-[4] Lan Y, Ren J, Tang T, Xu X, Shi Y, **Tang Z**. [Efficient reinforcement learning with least-squares soft Bellman residual for robotic grasping]()[J]. Robotics and Autonomous Systems (**RAS**), 2023, 164: 104385.
+[4] Lan Y, Ren J, Tang T, Xu X, Shi Y, **Tang Z**. [Efficient reinforcement learning with least-squares soft Bellman residual for robotic grasping](https://Zixin-Tang.github.io/assets/pub/CAAI_Trans_on_Intel_Tech-2023-A_deep_Koopman_operator_based_modelling_approach.pdf)[J]. Robotics and Autonomous Systems (**RAS**), 2023, 164: 104385.
 
-[5] **Tang Z**, Xu X, Shi Y. [Grasp Planning Based on Deep Reinforcement Learning: A Brief Survey](asserts/pub/Grasp_Planning_Based_on_Deep_Reinforcement_Learning_A_Brief_Survey.pdf)[C]. China Automation Congress (**CAC**). 2021: 7293-7299.
+[5] **Tang Z**, Xu X, Shi Y. [Grasp Planning Based on Deep Reinforcement Learning: A Brief Survey](https://Zixin-Tang.github.io/assets/pub/Grasp_Planning_Based_on_Deep_Reinforcement_Learning_A_Brief_Survey.pdf)[C]. China Automation Congress (**CAC**). 2021: 7293-7299.
 
 
 
