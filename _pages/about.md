@@ -9,7 +9,7 @@ redirect_from:
 https://iopen.nwpu.edu.cn/info/1329/1171.htm
 
 
-I am a research assistant at [Shanghai AI Lab](https://www.shlab.org.cn), working with the Prof. Dr. [Xuelong Li](https://iopen.nwpu.edu.cn/info/1329/1171.htm). Prior to this, I obtained my **M.S. degree** in Control Science and Engineering from [National University of Defense Technology](https://www.nudt.edu.cn) in June 2023, advised by Prof. Dr. [Xin Xu](https://xueshu.baidu.com/scholarID/CN-B7736SUJ), and my bachelor's degree in Computer Science and Technology from [Sichuan University](https://www.scu.edu.cn).
+I am a research assistant at [Shanghai AI Lab](https://www.shlab.org.cn), working with Prof. Dr. [Xuelong Li](https://iopen.nwpu.edu.cn/info/1329/1171.htm). Prior to this, I obtained my **M.S. degree** in Control Science and Engineering from [National University of Defense Technology](https://www.nudt.edu.cn) in June 2023, advised by Prof. Dr. [Xin Xu](https://xueshu.baidu.com/scholarID/CN-B7736SUJ), and my bachelor's degree in Computer Science and Technology from [Sichuan University](https://www.scu.edu.cn).
     
 
 <p>
