@@ -16,7 +16,7 @@ I am a research assistant at [Shanghai AI Lab](https://www.shlab.org.cn), workin
 </p>   
 In particular, I am interested in embodied intelligence with a focus on representation learning for multi-modal perception and long-horizon planning via large language models (LLMs):
 + <font color='green'>Representation learning for multi-modal perception</font> How to learn object-generic tokens for prompts? And how to learn task-driven representations for efficient skill learning?
-+ <font color='green'>Hierarchical embodied planning</font> How to define and decide the granularity of skills? How to close the loop between high-level skill sequences and low-level control signals for learning-based skills? And how can we solve the “Hand over” problem of skill sequence?
++ <font color='green'>Hierarchical embodied planning</font> How to define and decide the granularity of skills? How to close the loop between high-level skill sequences and low-level control signals for learning-based skills? And how can we solve the 'hand-off problems' of skill sequence?
 
 
 Publications
