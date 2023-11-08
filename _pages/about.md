@@ -20,13 +20,9 @@ Recently, my research mainly focuses on leveraging LLMs to tackle long-horizon m
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/GzdKMVn8avo/0.jpg)](https://www.youtube.com/embed/GzdKMVn8avo "CameraMaster")
 
-<iframe  
-height=400 
-width=60% 
-src="https://www.youtube.com/embed/GzdKMVn8avo"  
-frameborder=0  
-allowfullscreen>
-</iframe>
+<video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
+<source id="mp4" src="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
+</video>
 
 + Embodied control via LLMs: Long-horizon Bimanual Manipulation.
 
