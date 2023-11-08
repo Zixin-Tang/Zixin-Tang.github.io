@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently a research assistant at Shanghai AI Laboratory, where I am fortunate to work under the mentorship of Prof. [Xuelong Li](https://iopen.nwpu.edu.cn/info/1329/1171.htm). Before this, I obtained my M.S. degree from [National University of Defense Technology](https://www.nudt.edu.cn) in June 2023, advised by Prof. [Xin Xu](https://xueshu.baidu.com/scholarID/CN-B7736SUJ), and my bachelor's degree in Computer Science and Technology from [Sichuan University](https://www.scu.edu.cn).
+I am currently a research assistant at Shanghai AI Laboratory, where I am fortunate to work under the mentorship of Prof. [Xuelong Li](https://iopen.nwpu.edu.cn/info/1329/1171.htm). Before this, I obtained my M.S. degree from [National University of Defense Technology (NUDT)](https://www.nudt.edu.cn) in June 2023, advised by Prof. [Xin Xu](https://xueshu.baidu.com/scholarID/CN-B7736SUJ), and my bachelor's degree in Computer Science and Technology from [Sichuan University](https://www.scu.edu.cn).
     
 
 <p>
