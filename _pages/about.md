@@ -98,7 +98,7 @@ Dynamics with Pixel-level Measurements](https://ietresearch.onlinelibrary.wiley.
   </colgroup>
   <tr>
     <td>
-      <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/CKNetImage.jpeg?raw=true" width="250" height="110" alt="Video Title">
+      <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/KLSAC.png?raw=true" width="250" height="110" alt="Video Title">
     </td>
     <td>
       <li>Learning Koopman Operator-based latent dynamics model from raw pixels</li>
