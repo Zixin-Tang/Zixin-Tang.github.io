@@ -76,7 +76,7 @@ RGB-D Images](https://ieeexplore.ieee.org/document/9919329)</b>
   </colgroup>
   <tr>
     <td>
-      <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HADemoCover.png?raw=true" width="250" height="110" alt="Video Title">
+      <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/SymmetryGraspGIF.gif?raw=true" width="250" height="110" alt="Video Title">
     </td>
     <td>
       <li>The first symmetry-aware 7-DoF antipodal grasp detection method</li>
