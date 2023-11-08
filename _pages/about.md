@@ -61,7 +61,7 @@ td, th {
 
 **IEEE Robotics and Automation Letters (RA-L 2023).**
 
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HADemoCover.png?raw=true" width="250" height="110" alt="Video Title">
@@ -74,19 +74,6 @@ td, th {
     </td>
   </tr>
 </table>
-
-
-| <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HADemoCover.png?raw=true" width="250" height="110" alt="Video Title"> | - The first closed-loop planning method to achieve safe grasping in stacked scenarios<br>- Propose a Next-Best-Region (NBR) attention module to intrinsically identify safe regions<br>- Present a reinforcement learning from demonstrations algorithm for stable fine-tuning<br>- Experiments on 1000 stacked scenes demonstrate the state-of-the-art performance|
-
-
-
-| <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HADemoCover.png?raw=true" width="250" height="110" alt="Video Title"> | <li>The first closed-loop planning method to achieve safe grasping in stacked scenarios</li><br>- Propose a Next-Best-Region (NBR) attention module to intrinsically identify safe regions<br>- Present a reinforcement learning from demonstrations algorithm for stable fine-tuning<br>- Experiments on 1000 stacked scenes demonstrate the state-of-the-art performance|
-
-<li>The first closed-loop planning method to achieve safe grasping in stacked scenarios</li>
-- The first closed-loop planning method to achieve safe grasping in stacked scenarios
-- Propose a Next-Best-Region (NBR) attention module to intrinsically identify safe regions
-- Present a reinforcement learning from demonstrations algorithm for stable fine-tuning
-- Experiments on 1000 stacked scenes demonstrate the state-of-the-art performance
 
 <b>[SymmetryGrasp: Symmetry-Aware Antipodal Grasp Detection From Single-View 
 RGB-D Images](https://ieeexplore.ieee.org/document/9919329)</b>
