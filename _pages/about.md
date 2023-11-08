@@ -42,21 +42,6 @@ Publications
 ------
 For a quick overview, please check this [summary file](https://Zixin-Tang.github.io/assets/pub/Online_Summary_material.pdf).
 
-
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
-
-| Time         | Length        | Speed              | Mass         |
-| ------------ | ------------- | ------------------ | ------------ |
-| -Millisecond | Millimetre    | Kilometre per hour | Milligram    |
-| Second       | Centimetre    | Foot per second    | Gram         |
-| Minute       | Inch          | Miles per hour     | Ounce        |
-
-
 <b>[CSGP: Closed-loop Safe Grasp Planning via Attention-based Deep Reinforcement Learning from Demonstrations](https://ieeexplore.ieee.org/document/10059127)</b>
 
 **IEEE Robotics and Automation Letters (RA-L 2023).**
@@ -79,6 +64,20 @@ td, th {
 RGB-D Images](https://ieeexplore.ieee.org/document/9919329)</b>
 
 **IEEE Robotics and Automation Letters (RA-L 2022), also selected by ICRA 2023 for oral presentation.**
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HADemoCover.png?raw=true" width="250" height="110" alt="Video Title">
+    </td>
+    <td>
+      <li>The first symmetry-aware 7-DoF antipodal grasp detection method</li>
+      <li>Propose a Principal-directional scale-Invariant Feature Transformer (PIFT) to improve grasping ability on novel objects</li>
+      <li>Experiments on GraspNet-1Billion demonstrate the state-of-the-art performance for robust grasping synthesis</li>
+    </td>
+  </tr>
+</table>
+
 - The first symmetry-aware 7-DoF antipodal grasp detection method
 - Propose a Principal-directional scale-Invariant Feature Transformer (PIFT) to improve grasping ability on novel objects
 - Experiments on GraspNet-1Billion demonstrate the state-of-the-art performance for robust grasping synthesis
