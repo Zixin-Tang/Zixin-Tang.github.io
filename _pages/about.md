@@ -48,8 +48,8 @@ For a quick overview, please check this [summary file](https://Zixin-Tang.github
 
 <table border="0" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <colgroup>
-    <col style="width: 10%;"> <!-- 第一列宽度占表格的30% -->
-    <col style="width: 90%;"> <!-- 第二列宽度占表格的70% -->
+    <col style="width: 20%;"> <!-- 第一列宽度占表格的30% -->
+    <col style="width: 80%;"> <!-- 第二列宽度占表格的70% -->
   </colgroup>
   <tr>
     <td>
@@ -71,8 +71,8 @@ RGB-D Images](https://ieeexplore.ieee.org/document/9919329)</b>
 
 <table border="0" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <colgroup>
-    <col style="width: 10%;"> <!-- 第一列宽度占表格的30% -->
-    <col style="width: 90%;"> <!-- 第二列宽度占表格的70% -->
+    <col style="width: 25%;"> <!-- 第一列宽度占表格的30% -->
+    <col style="width: 75%;"> <!-- 第二列宽度占表格的70% -->
   </colgroup>
   <tr>
     <td>
@@ -93,8 +93,8 @@ Dynamics with Pixel-level Measurements](https://ietresearch.onlinelibrary.wiley.
 
 <table border="0" style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <colgroup>
-    <col style="width: 10%;"> <!-- 第一列宽度占表格的30% -->
-    <col style="width: 90%;"> <!-- 第二列宽度占表格的70% -->
+    <col style="width: 30%;"> <!-- 第一列宽度占表格的30% -->
+    <col style="width: 70%;"> <!-- 第二列宽度占表格的70% -->
   </colgroup>
   <tr>
     <td>
