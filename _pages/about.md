@@ -84,6 +84,10 @@ Dynamics with Pixel-level Measurements](https://ietresearch.onlinelibrary.wiley.
 **CAAI Transactions on Intelligence Technology (CAAI 2023).**
 
 <table border="0">
+  <colgroup>
+    <col style="width: 20%;"> <!-- 第一列宽度占表格的30% -->
+    <col style="width: 80%;"> <!-- 第二列宽度占表格的70% -->
+  </colgroup>
   <tr>
     <td>
       <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HADemoCover.png?raw=true" width="250" height="110" alt="Video Title">
