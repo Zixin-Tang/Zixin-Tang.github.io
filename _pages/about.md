@@ -31,6 +31,21 @@ Publications
 ------
 For a quick overview, please check this [summary file](https://Zixin-Tang.github.io/assets/pub/Online_Summary_material.pdf).
 
+
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+
+| Time         | Length        | Speed              | Mass         |
+| ------------ | ------------- | ------------------ | ------------ |
+| -Millisecond | Millimetre    | Kilometre per hour | Milligram    |
+| Second       | Centimetre    | Foot per second    | Gram         |
+| Minute       | Inch          | Miles per hour     | Ounce        |
+
+
 <b>[CSGP: Closed-loop Safe Grasp Planning via Attention-based Deep Reinforcement Learning from Demonstrations](https://ieeexplore.ieee.org/document/10059127)</b>
 
 **IEEE Robotics and Automation Letters (RA-L 2023).**
