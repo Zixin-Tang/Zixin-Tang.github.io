@@ -18,7 +18,7 @@ I am interested in <b>Embodied AI: Robotics, Deep Reinforcement Learning, and Co
 Recently, my research mainly focuses on leveraging LLMs to tackle long-horizon manipulation challenges in robotics:
 + Embodied planning via LLMs: Heterogeneous Multi-agent Task Planning. I am working on setting up heterogeneous multi-robot benchmark in simulation and contributing to our task planning method. Below is a demo video to demonstrate the key point of our tasks.
 
-<div align=center>[<img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HMAdemoCover.jpg" width="600" height="300"
+<div align=center>[<img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HMAdemoCover.jpg" style="center" width="600" height="300"
 />](https://www.youtube.com/watch?v=GZIk6S_AlUc "Click to watch the video")</div>
 
 <video id="video" controls="" preload="true" poster="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HMAdemoCover.jpg">
