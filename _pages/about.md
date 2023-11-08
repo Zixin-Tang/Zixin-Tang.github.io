@@ -64,13 +64,13 @@ td, th {
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HADemoCover.png?raw=true" width="300" height="110" alt="Video Title">
+      <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HADemoCover.png?raw=true" width="250" height="110" alt="Video Title">
     </td>
     <td>
-* The first closed-loop planning method to achieve safe grasping in stacked scenarios \
-* Propose a Next-Best-Region (NBR) attention module to intrinsically identify safe regions \
-* Present a reinforcement learning from demonstrations algorithm for stable fine-tuning \
-* Experiments on 1000 stacked scenes demonstrate the state-of-the-art performance
+      <li>The first closed-loop planning method to achieve safe grasping in stacked scenarios</li>
+      <li>Propose a Next-Best-Region (NBR) attention module to intrinsically identify safe regions</li>
+      <li>Present a reinforcement learning from demonstrations algorithm for stable fine-tuning</li>
+      <li>Experiments on 1000 stacked scenes demonstrate the state-of-the-art performance</li>
     </td>
   </tr>
 </table>
