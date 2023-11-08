@@ -64,7 +64,7 @@ td, th {
 <table>
   <tr>
     <td>
-      ![alt text](https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/ALOHACover.png?raw=true "Image Title")
+      ![alt text](https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/ALOHACover.png?raw=true)
     </td>
     <td>
       这里是图片的描述文字，您可以放置任何您需要的内容。
