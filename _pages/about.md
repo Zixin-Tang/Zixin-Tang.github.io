@@ -53,7 +53,7 @@ For a quick overview, please check this [summary file](https://Zixin-Tang.github
   </colgroup>
   <tr>
     <td>
-      <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HADemoCover.png?raw=true" width="250" height="110" alt="Video Title">
+      <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/CSGP_Image.gif?raw=true" width="250" height="110" alt="Video Title">
     </td>
     <td>
       <li>The first closed-loop planning method to achieve safe grasping in stacked scenarios</li>
