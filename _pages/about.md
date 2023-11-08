@@ -18,18 +18,13 @@ I am interested in <b>Embodied AI: Robotics, Deep Reinforcement Learning, and Co
 Recently, my research mainly focuses on leveraging LLMs to tackle long-horizon manipulation challenges in robotics:
 + Embodied planning via LLMs: Heterogeneous Multi-agent Task Planning. I am working on setting up heterogeneous multi-robot benchmark in simulation and contributing to our task planning method. Below is a demo video to demonstrate the key point of our tasks.
 
+<div style="text-align: center">
 [<img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HMAdemoCover.jpg?raw=true" width="600" height="300"
 />](https://www.youtube.com/watch?v=GZIk6S_AlUc "Click to watch the video")
-
-<video id="video" controls="" preload="none" poster="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HMAdemoCover.jpg?raw=true">
-<source id="mp4" src="https://www.youtube.com/watch?v=GZIk6S_AlUc" type="video/mp4">
-</video>
+</div>
 
 
-<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
-      <source id="mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4">
-      <p>Your user agent does not support the HTML5 Video element.</p>
-    </video>
+
 
 + Embodied control via LLMs: Long-horizon Bimanual Manipulation.
 
