@@ -12,11 +12,11 @@ I am currently a research assistant at Shanghai AI Laboratory, where I am fortun
     
 
 <p>
-<strong>Research Areas & Interests:</strong> Embodied AI: Robotics, Deep Reinforcement Learning, and Computer Vision. 
+<strong>Research Areas & Interests: Embodied AI: Robotics, Deep Reinforcement Learning, and Computer Vision.</strong> 
 </p>   
-Recently, my research mainly focuses on leveraging LLMs to tackle long-horizon manipulation challenges in robotics:
-+ **Embodied planning via LLMs: Heterogeneous Multi-agent Task Planning** 
-+ **Embodied control via LLMs: Long-horizon Bimanual Manipulation**
+Recently, my research mainly <b>focuses on leveraging LLMs to tackle long-horizon manipulation challenges in robotics</b>:
++ Embodied planning via LLMs: Heterogeneous Multi-agent Task Planning
++ Embodied control via LLMs: Long-horizon Bimanual Manipulation
 
 
 Publications
