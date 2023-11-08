@@ -78,6 +78,11 @@ td, th {
 
 | <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HADemoCover.png?raw=true" width="250" height="110" alt="Video Title"> | - The first closed-loop planning method to achieve safe grasping in stacked scenarios<br>- Propose a Next-Best-Region (NBR) attention module to intrinsically identify safe regions<br>- Present a reinforcement learning from demonstrations algorithm for stable fine-tuning<br>- Experiments on 1000 stacked scenes demonstrate the state-of-the-art performance|
 
+
+
+| <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HADemoCover.png?raw=true" width="250" height="110" alt="Video Title"> | <li>The first closed-loop planning method to achieve safe grasping in stacked scenarios</li><br>- Propose a Next-Best-Region (NBR) attention module to intrinsically identify safe regions<br>- Present a reinforcement learning from demonstrations algorithm for stable fine-tuning<br>- Experiments on 1000 stacked scenes demonstrate the state-of-the-art performance|
+
+<li>The first closed-loop planning method to achieve safe grasping in stacked scenarios</li>
 - The first closed-loop planning method to achieve safe grasping in stacked scenarios
 - Propose a Next-Best-Region (NBR) attention module to intrinsically identify safe regions
 - Present a reinforcement learning from demonstrations algorithm for stable fine-tuning
