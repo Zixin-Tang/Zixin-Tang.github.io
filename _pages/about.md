@@ -27,7 +27,7 @@ For a quick overview, please check this [summary file](https://Zixin-Tang.github
 <p>[CSGP: Closed-loop Safe Grasp Planning via Attention-based Deep Reinforcement Learning from Demonstrations](https://ieeexplore.ieee.org/document/10059127)</p>
 **IEEE Robotics and Automation Letters (RA-L 2023).**
 - The first closed-loop planning method to achieve safe grasping in stacked scenarios
-- Propose a Next-Best-Region (NBV) attention module to intrinsically identify safe regions
+- Propose a Next-Best-Region (NBR) attention module to intrinsically identify safe regions
 - Present a reinforcement learning from demonstrations algorithm for stable fine-tuning
 - Experiments on 1000 stacked scenes demonstrate the state-of-the-art performance
 
