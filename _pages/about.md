@@ -24,34 +24,34 @@ Publications
 ------
 For a quick overview, please check this [summary file](https://Zixin-Tang.github.io/assets/pub/Online_Summary_material.pdf).
 
-<p>[CSGP: Closed-loop Safe Grasp Planning via Attention-based Deep Reinforcement Learning from Demonstrations](https://ieeexplore.ieee.org/document/10059127)</p>
+<b>[CSGP: Closed-loop Safe Grasp Planning via Attention-based Deep Reinforcement Learning from Demonstrations](https://ieeexplore.ieee.org/document/10059127)</b>
 **IEEE Robotics and Automation Letters (RA-L 2023).**
 - The first closed-loop planning method to achieve safe grasping in stacked scenarios
 - Propose a Next-Best-Region (NBR) attention module to intrinsically identify safe regions
 - Present a reinforcement learning from demonstrations algorithm for stable fine-tuning
 - Experiments on 1000 stacked scenes demonstrate the state-of-the-art performance
 
-<p>[SymmetryGrasp: Symmetry-Aware Antipodal Grasp Detection From Single-View 
-RGB-D Images](https://ieeexplore.ieee.org/document/9919329)</p>
+<b>[SymmetryGrasp: Symmetry-Aware Antipodal Grasp Detection From Single-View 
+RGB-D Images](https://ieeexplore.ieee.org/document/9919329)</b>
 **IEEE Robotics and Automation Letters (RA-L 2022), also selected by ICRA 2023 for oral presentation.**
 - The first symmetry-aware 7-DoF antipodal grasp detection method
 - Propose a Principal-directional scale-Invariant Feature Transformer (PIFT) to improve grasping ability on novel objects
 - Experiments on GraspNet-1Billion demonstrate the state-of-the-art performance for robust grasping synthesis
 
-<p>[A deep Koopman Operator-based Modeling Approach for Long-term Prediction of 
-Dynamics with Pixel-level Measurements](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12149)</p> 
+<b>[A deep Koopman Operator-based Modeling Approach for Long-term Prediction of 
+Dynamics with Pixel-level Measurements](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12149)</b> 
 **CAAI Transactions on Intelligence Technology (CAAI 2023).**
 - Learning Koopman Operator-based latent dynamics model from raw pixels
 - Achieve long-term prediction over 100 steps in latent space and reconstruction space
 - Experiments in OpenAI Gym and MuJoCo demonstrate excellent performance in terms of high precision and fast inference
 
-<p>[Efficient Reinforcement Learning with Least-squares Soft Bellman Residual for Robotic Grasping](https://www.sciencedirect.com/science/article/pii/S0921889023000246)</p> 
+<b>[Efficient Reinforcement Learning with Least-squares Soft Bellman Residual for Robotic Grasping](https://www.sciencedirect.com/science/article/pii/S0921889023000246)</b> 
 **Robotics and Autonomous Systems (RAS 2023).**
 - A novel Actor-Critic algorithm based on least-squares soft Bellman residual
 - Construct sparse kernel-based feature representations to improve sample efficiency and generalization ability
 - Experiments compared with typical RL algorithms, e.g. SAC, DDPG, TD3, demonstrate better performance 
 
-<p>[Grasp Planning Based on Deep Reinforcement Learning: A Brief Survey](https://ieeexplore.ieee.org/document/9727526)</p>
+<b>[Grasp Planning Based on Deep Reinforcement Learning: A Brief Survey](https://ieeexplore.ieee.org/document/9727526)</b>
 **China Automation Congress (CAC 2021).**
 
 
