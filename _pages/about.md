@@ -24,15 +24,6 @@ Recently, my research mainly focuses on leveraging LLMs to tackle long-horizon m
 
 </div>
 
-<div align="center">
-
-[![Video Title](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID "Video Title")
-
-</div>
-
-[<img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HADemoCover.png?raw=true" width="600" height="350"/>](https://www.youtube.com/watch?v=GZIk6S_AlUc)
-
-
 + Embodied control via LLMs: Long-horizon Bimanual Manipulation.
 
 
