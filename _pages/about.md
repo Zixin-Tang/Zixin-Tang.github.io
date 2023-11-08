@@ -78,24 +78,42 @@ RGB-D Images](https://ieeexplore.ieee.org/document/9919329)</b>
   </tr>
 </table>
 
-- The first symmetry-aware 7-DoF antipodal grasp detection method
-- Propose a Principal-directional scale-Invariant Feature Transformer (PIFT) to improve grasping ability on novel objects
-- Experiments on GraspNet-1Billion demonstrate the state-of-the-art performance for robust grasping synthesis
-
 <b>[A deep Koopman Operator-based Modeling Approach for Long-term Prediction of 
 Dynamics with Pixel-level Measurements](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12149)</b> 
 
 **CAAI Transactions on Intelligence Technology (CAAI 2023).**
-- Learning Koopman Operator-based latent dynamics model from raw pixels
-- Achieve long-term prediction over 100 steps in latent space and reconstruction space
-- Experiments in OpenAI Gym and MuJoCo demonstrate excellent performance in terms of high precision and fast inference
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HADemoCover.png?raw=true" width="250" height="110" alt="Video Title">
+    </td>
+    <td>
+      <li>Learning Koopman Operator-based latent dynamics model from raw pixels</li>
+      <li>Achieve long-term prediction over 100 steps in latent space and reconstruction space</li>
+      <li>Experiments in OpenAI Gym and MuJoCo demonstrate excellent performance in terms of high precision and fast inference</li>
+    </td>
+  </tr>
+</table>
+
 
 <b>[Efficient Reinforcement Learning with Least-squares Soft Bellman Residual for Robotic Grasping](https://www.sciencedirect.com/science/article/pii/S0921889023000246)</b> 
 
 **Robotics and Autonomous Systems (RAS 2023).**
-- A novel Actor-Critic algorithm based on least-squares soft Bellman residual
-- Construct sparse kernel-based feature representations to improve sample efficiency and generalization ability
-- Experiments compared with typical RL algorithms, e.g. SAC, DDPG, TD3, demonstrate better performance 
+
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HADemoCover.png?raw=true" width="250" height="110" alt="Video Title">
+    </td>
+    <td>
+      <li>A novel Actor-Critic algorithm based on least-squares soft Bellman residual</li>
+      <li>Construct sparse kernel-based feature representations to improve sample efficiency and generalization ability</li>
+      <li>Experiments compared with typical RL algorithms, e.g. SAC, DDPG, TD3, demonstrate better performance</li>
+    </td>
+  </tr>
+</table>
+
 
 <b>[Grasp Planning Based on Deep Reinforcement Learning: A Brief Survey](https://ieeexplore.ieee.org/document/9727526)</b>
 
