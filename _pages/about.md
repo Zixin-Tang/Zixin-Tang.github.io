@@ -16,8 +16,12 @@ Research Topics
 ------  
 I am interested in <b>Embodied AI: Robotics, Deep Reinforcement Learning, and Computer Vision</b>.
 Recently, my research mainly focuses on leveraging LLMs to tackle long-horizon manipulation challenges in robotics:
-+ Embodied planning via LLMs: Heterogeneous Multi-agent Task Planning
-+ Embodied control via LLMs: Long-horizon Bimanual Manipulation
++ Embodied planning via LLMs: Heterogeneous Multi-agent Task Planning. I am working on setting up heterogeneous multi-robot benchmark in simulation and contributing to our task planning method. Below is a demo video to demonstrate the key point of our tasks.
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="https://www.nwpu.edu.cn/__local/4/78/C0/69F801B264252DAA5CBEAD91888_0D950411_6B92F9D.mp4" type="video/mp4">
+</videos>
+
++ Embodied control via LLMs: Long-horizon Bimanual Manipulation.
 
 
 Publications
