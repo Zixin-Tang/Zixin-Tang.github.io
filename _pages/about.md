@@ -22,17 +22,17 @@ I am working on setting up heterogeneous multi-robot benchmark in simulation and
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=GZIk6S_AlUc">
-    <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HADemoCover.png?raw=true" width="600" height="350" alt="Video Title">
+    <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HADemoCover.png?raw=true" width="600" height="350" alt="Embodied Planning Demo">
   </a>
 </p>
 
 + Embodied control via LLMs: Long-horizon Bimanual Manipulation.
-I am working on designed a LLM-based control algorithm for long-horizon bimanual manipulation. The bimanual platform used is [ALOHA](https://tonyzhaozh.github.io/aloha/) designed by Stanford. (Below is a demo video to show a long-horizon task and its corresponding subsections)
+I am working on designed a LLM-based control algorithm for long-horizon bimanual manipulation. The bimanual platform used is [ALOHA](https://tonyzhaozh.github.io/aloha/) designed by Stanford. (Below is a demo video to show a long-horizon task and its corresponding substeps)
 
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=VmRhUqRFp-4">
-    <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/ALOHACover.png?raw=true" width="600" height="350" alt="Video Title">
+    <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/ALOHACover.png?raw=true" width="600" height="350" alt="Embodied Control Demo">
   </a>
 </p>
 
@@ -64,7 +64,7 @@ td, th {
 <table>
   <tr>
     <td>
-      ![alt text](https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/ALOHACover.png?raw=true)
+      <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HADemoCover.png?raw=true" width="100" height="60" alt="Video Title">
     </td>
     <td>
       这里是图片的描述文字，您可以放置任何您需要的内容。
