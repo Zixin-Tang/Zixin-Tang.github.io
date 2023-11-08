@@ -19,10 +19,14 @@ Recently, my research mainly focuses on leveraging LLMs to tackle long-horizon m
 + Embodied planning via LLMs: Heterogeneous Multi-agent Task Planning. I am working on setting up heterogeneous multi-robot benchmark in simulation and contributing to our task planning method. Below is a demo video to demonstrate the key point of our tasks.
 
 <div align="center">
-  
-[l](https://www.youtube.com/watch?v=GZIk6S_AlUc)
-
+[<img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HADemoCover.png?raw=true" width="600" height="350"/>](https://www.youtube.com/watch?v=GZIk6S_AlUc)
 </div>
+
+<p align="center">
+  <a href="[http://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=GZIk6S_AlUc)">
+    <img src="https://github.com/Zixin-Tang/Zixin-Tang.github.io/blob/master/images/HADemoCover.png?raw=true" alt="Video Title">
+  </a>
+</p>
 
 + Embodied control via LLMs: Long-horizon Bimanual Manipulation.
 
