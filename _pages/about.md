@@ -17,7 +17,7 @@ Research Topics
 I am interested in <b>Embodied AI: Robotics, Deep Reinforcement Learning, and Computer Vision</b>.
 Recently, my research mainly focuses on leveraging LLMs to tackle long-horizon manipulation challenges in robotics:
 + Embodied planning via LLMs: Heterogeneous Multi-agent Task Planning.
-I am working on setting up heterogeneous multi-robot benchmark in simulation and contributing to our task planning method. (Below is a demo video to demonstrate the key point of our tasks.)
+I am working on setting up a heterogeneous multi-robot benchmark in simulation and contributing to our task-planning method. (Below is a demo video to demonstrate the key points of our tasks.)
 
 
 <p align="center">
@@ -27,7 +27,7 @@ I am working on setting up heterogeneous multi-robot benchmark in simulation and
 </p>
 
 + Embodied control via LLMs: Long-horizon Bimanual Manipulation.
-I am working on designed a LLM-based control algorithm for long-horizon bimanual manipulation. The bimanual platform used is [ALOHA](https://tonyzhaozh.github.io/aloha/) designed by Stanford. (Below is a demo video to show a long-horizon task and its corresponding substeps)
+I am working on designing a LLM-based control algorithm for long-horizon bimanual manipulation. The bimanual platform used is [ALOHA](https://tonyzhaozh.github.io/aloha/) designed by Stanford. (Below is a demo video to show a long-horizon task and its corresponding substeps)
 
 
 <p align="center">
